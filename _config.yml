@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Website of Kingsmill77, enjoy.
 description: Simple webpage to learn how Github Pages works.
+author: Kingsley Baxter
+author_email: baxkin7796@gmail.com
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
